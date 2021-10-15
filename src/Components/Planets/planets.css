@@ -1,0 +1,16 @@
+.planets {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+.planet-details {
+	flex-basis: 50%;
+	width: 40%;
+}
+
+.planet-list {
+	flex-basis: 50%;
+	width: 40%;
+}
