@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hashRouter-demo/static/css/main.8f231827.chunk.css",
+    "main.js": "/hashRouter-demo/static/js/main.6a9601be.chunk.js",
+    "main.js.map": "/hashRouter-demo/static/js/main.6a9601be.chunk.js.map",
+    "runtime-main.js": "/hashRouter-demo/static/js/runtime-main.c2c9511d.js",
+    "runtime-main.js.map": "/hashRouter-demo/static/js/runtime-main.c2c9511d.js.map",
+    "static/js/2.2d0efd8b.chunk.js": "/hashRouter-demo/static/js/2.2d0efd8b.chunk.js",
+    "static/js/2.2d0efd8b.chunk.js.map": "/hashRouter-demo/static/js/2.2d0efd8b.chunk.js.map",
+    "index.html": "/hashRouter-demo/index.html",
+    "static/css/main.8f231827.chunk.css.map": "/hashRouter-demo/static/css/main.8f231827.chunk.css.map",
+    "static/js/2.2d0efd8b.chunk.js.LICENSE.txt": "/hashRouter-demo/static/js/2.2d0efd8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2c9511d.js",
+    "static/js/2.2d0efd8b.chunk.js",
+    "static/css/main.8f231827.chunk.css",
+    "static/js/main.6a9601be.chunk.js"
+  ]
+}
